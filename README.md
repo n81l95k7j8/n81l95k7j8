@@ -87,10 +87,9 @@ Clean code, thorough documentation, strict deadlines.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n81l95k7j8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n81l95k7j8&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.deno.dev/?user=n81l95k7j8&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ### 📫 Let's connect
