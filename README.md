@@ -27,43 +27,29 @@ Clean code, thorough documentation, strict deadlines.
 - ✅ **16 smoke tests** + matrix CI/CD + Slack alerts
 - 🏃 Runs daily via GitHub Actions with full monitoring
 
-**Stack:** `Python` · `MySQL` · `GitHub Actions` · `REST API` · `CSV Streaming`
+**Stack:** `Python` · `TiDB` · `MySQL` · `GitHub Actions` · `REST API` · `CSV Streaming`
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+**Languages:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Backend**  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+**Backend:**  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+**Databases & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -81,28 +67,26 @@ Clean code, thorough documentation, strict deadlines.
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n81l95k7j8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n81l95k7j8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+</p>
 
-![Nikolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=n81l95k7j8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n81l95k7j8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-[![GitHub Streak](https://streak-stats.deno.dev/?user=n81l95k7j8&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff)](https://git.io/streak-stats)
-
-</div>
 ---
 
 ### 📫 Let's connect
 
-<div align="center">
-
-[![LaborX](https://img.shields.io/badge/LaborX-Hire_Me-1DA1F2?style=for-the-badge&logo=laborx&logoColor=white)](https://laborx.com/freelancers/users/id451630)
-[![GitHub](https://img.shields.io/badge/GitHub-n81l95k7j8-181717?style=for-the-badge&logo=github)](https://github.com/n81l95k7j8)
-
-</div>
+<p align="center">
+  <a href="https://laborx.com/freelancers/users/id451630">
+    <img src="https://img.shields.io/badge/LaborX-Hire_Me-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="LaborX" />
+  </a>
+  <a href="https://github.com/n81l95k7j8">
+    <img src="https://img.shields.io/badge/GitHub-n81l95k7j8-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-<sub>⭐ From my pinned repositories · Available for freelance projects</sub>
-</div>
+<p align="center">
+  <sub>⭐ From my pinned repositories · Available for freelance projects</sub>
+</p>
