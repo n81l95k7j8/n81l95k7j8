@@ -65,15 +65,6 @@ Clean code, thorough documentation, strict deadlines.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n81l95k7j8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n81l95k7j8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's connect
 
 <p align="center">
